@@ -226,7 +226,7 @@ audio::-webkit-media-controls-current-time-display {
 .lovestorybox {
     margin: auto;
     max-width: 1200px;
-    padding: 30px;
+    padding: 0 30px 30px 30px;
 }
 .lovestorybox  p {
     padding:2.5px 20px 2.5px 20px;
@@ -276,6 +276,12 @@ audio::-webkit-media-controls-current-time-display {
 }
 .ubicacion .icon {
     width: 80px;
+}
+.lovestory .fecha {
+    padding: 30px 0 0 0;
+    max-width: 320px;
+    margin: auto;
+    padding: auto;
 }
 .icon {
     width: 80px;
@@ -638,7 +644,7 @@ footer img {
         
     }
     .lovestorybox{
-        margin: 20px 10px;
+        margin: 0px 10px 20px 10px;
     }
         .galeria1 {
             width: 100%;
